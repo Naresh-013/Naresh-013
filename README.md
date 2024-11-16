@@ -1,6 +1,12 @@
 ## ABOUT ME
 
-Hello I'm Naresh an aspiring developer looking for improvments. I am currently pursing my under grad degree in AI and Data Science. I am currently learning to do machine learning and frontend projects in the mean time.
+Hello I'm Naresh an aspiring developer looking for improvments. I am currently pursing my under grad degree in AI and Data Science. 
+I am currently learning to do machine learning and frontend projects in the mean time.
+
+ Find Me On:
+
+ Leetcode: https://leetcode.com/u/naresh_013/
+ Linked In: https://www.linkedin.com/in/naresh-m-20401a263/
 
 <!--
 **Naresh-013/Naresh-013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
